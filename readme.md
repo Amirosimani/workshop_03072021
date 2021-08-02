@@ -1,0 +1,1 @@
+All notebooks are from [SageMaker Examples GitHub](https://github.com/aws/amazon-sagemaker-examples).
